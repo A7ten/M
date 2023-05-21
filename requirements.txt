@@ -1,0 +1,12 @@
+pip3
+setuptools
+pip
+telebot
+requests
+json
+types 
+random
+string
+time
+os
+sys
